@@ -1,0 +1,118 @@
+# Flutter and Dart
+
+# Build outputs
+**/build/
+**/out/
+**/.dart_tool/
+
+# Generated plugin registrants
+**/lib/generated_plugin_registrant.dart
+
+# Built application files
+**/app.android-arm64-release.apk
+**/app.android-arm32-release.apk
+**/app.android-x64-release.apk
+**/app.dmg
+**/app.iOS-release.ipa
+**/app.msix
+**/app.msix.upload
+**/app.msixbundle
+**/app.msixbundle.upload
+**/app.ios-arm64-release.xcarchive
+**/app.ios-armv7-release.xcarchive
+**/app.ios-x86_64-release.xcarchive
+
+# Web specific
+**/.dart_tool/web/
+
+# macOS specific
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.flutter-plugins-dependencies.cache
+**/macos/Flutter/ephemeral/
+
+# Windows specific
+**/windows/runner/
+**/windows/flutter/ephemeral/
+
+# Linux specific
+**/linux/flutter/ephemeral/
+
+# iOS specific
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/flutter_export_environment.xcconfig
+**/ios/ServiceDefinitions.json
+**/ios/Runner.xcodeproj/project.xcworkspace/
+**/ios/Runner.xcworkspace/
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/.symlinks/
+**/ios/Flutter/Debug.xcconfig
+**/ios/Flutter/Release.xcconfig
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Debug-iphoneos/
+**/ios/Flutter/Release-iphoneos/
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Generated.xcconfig
+
+# Android specific
+**/android/.gradle/
+**/android/.idea/
+**/android/local.properties
+**/android/.gradle/
+**/android/app/build/
+**/android/app/app.iml
+**/android/local.properties
+**/android/app/google-services.json
+**/android/key.properties
+
+# Packages
+**/packages/
+
+# Pub dependencies
+**/.packages
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.flutter-plugins-dependencies.lock
+**/.dart_tool/
+
+# IntelliJ related files
+**/.idea/
+**/.metadata
+**/*.iml
+
+# Visual Studio Code
+**/.vscode/
+
+# User-specific files
+**/*.swp
+**/.DS_Store
+**/.vscode/
+
+# Symbols
+**/*.pdb
+
+# Logs
+**/*.log
+
+# Binary files
+**/*.bin
+
+# Coverage reports
+**/coverage/
+
+# Application-specific files
+**/*.key
+**/*.cer
+**/*.jks
+
+# System files
+**/Thumbs.db
+**/ehthumbs.db
+**/desktop.ini
+
+# Dependency directories
+**/node_modules/
+**/bower_components/
