@@ -1,16 +1,16 @@
-# app002_shape_calculator
+# Aplicación 2 - Calculadora de figuras geométricas
 
-Shape Calculator
+Esta es una aplicación desarrollada con Flutter que permite a los usuarios realizar cálculos de área y perímetro de diversas figuras geométricas de manera rápida y precisa. La aplicación ofrece una interfaz de usuario intuitiva y fácil de usar, donde los usuarios pueden seleccionar el tipo de figura geométrica que desean calcular, como círculos, cuadrados, rectángulos, triángulos, y más.
 
-## Getting Started
+Características principales:
+- **Selección de Figuras Geométricas**: Permite a los usuarios elegir entre una variedad de figuras geométricas.
+- **Cálculo de Área**: Calcula el área de la figura seleccionada basándose en los parámetros proporcionados por el usuario.
+- **Cálculo de Perímetro**: Calcula el perímetro de la figura seleccionada, ofreciendo resultados precisos para diferentes tipos de figuras.
+- **Interfaz Amigable**: Diseñada para ser intuitiva, facilitando a los usuarios la navegación y el uso de la aplicación sin complicaciones.
+- **Resultados Instantáneos**: Los cálculos se realizan de manera instantánea, mostrando los resultados en tiempo real.
 
-This project is a starting point for a Flutter application.
+Esta es la herramienta perfecta para estudiantes, profesores, y cualquier persona interesada en la geometría, proporcionando una manera fácil y efectiva de realizar cálculos geométricos esenciales.
 
-A few resources to get you started if this is your first Flutter project:
+# Imágenes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Calculadora de Figuras Geométricas](Assets/shape_calculator.png)

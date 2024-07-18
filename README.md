@@ -17,4 +17,4 @@ Características principales:
 - **Interfaz Amigable**: Diseñada para ser intuitiva, facilitando a los usuarios la navegación y el uso de la aplicación sin complicaciones.
 - **Resultados Instantáneos**: Los cálculos se realizan de manera instantánea, mostrando los resultados en tiempo real.
 
-GeoCalc es la herramienta perfecta para estudiantes, profesores, y cualquier persona interesada en la geometría, proporcionando una manera fácil y efectiva de realizar cálculos geométricos esenciales.
+Esta es la herramienta perfecta para estudiantes, profesores, y cualquier persona interesada en la geometría, proporcionando una manera fácil y efectiva de realizar cálculos geométricos esenciales.
