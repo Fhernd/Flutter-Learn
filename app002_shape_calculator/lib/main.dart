@@ -61,7 +61,7 @@ class _ShapeCalculatorScreenState extends State<ShapeCalculatorScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Shape Calculator'),
+        title: const Text('Shape Calculator v.1.0'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
